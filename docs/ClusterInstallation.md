@@ -1,0 +1,11 @@
+# ClusterInstallation
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**Finished** | **bool** |  | [optional] [default to null]
+**Steps** | [***ClusterInstallationSteps**](ClusterInstallation_Steps.md) |  | [optional] [default to null]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
